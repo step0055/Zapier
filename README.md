@@ -9,5 +9,3 @@ Unfortunately, my computer wasn't hefty enough to process a bunch of SQL so I wa
 
 Regardless, I went ahead and included a DDL of the model I created as well as a mockup of a data visualization that I would create using Tableau.  
 
-Thanks,
-Jen
